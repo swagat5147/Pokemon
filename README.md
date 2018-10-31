@@ -1,2 +1,2 @@
 # Pokemon
-simple html page that shows the basic three first gen Pokemon along with their details
+simple html page that shows the various gen Pokemon along with their details
