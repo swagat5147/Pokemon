@@ -1,0 +1,28 @@
+table {
+    margin: auto;
+    width: 100%;
+    border: solid 2px black;
+    border-collapse:collapse;
+}
+table img {
+    width: 75px;
+    height: 75px;
+    padding: 5px;
+}
+
+@media (max-width: 768px) {
+    table img {
+        width: 50px;
+        height: 50px;
+        padding: 5px;
+    }
+}
+
+table tr th{
+    text-align: center;
+    padding: 10px;
+}
+
+.header-text{
+    text-align: center;
+}
